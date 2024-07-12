@@ -1,0 +1,3 @@
+<!ELEMENT cardapio(prato+)>
+<!ELEMENT prato(nome, descrição,ingredientes,preço,calorias,tempoPreparo)>
+<!ELEMENT nome (#PCDATA)>
