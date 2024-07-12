@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cardapio>
+ <prato id="P01">
+    <bauru>Bauru</bauru>
+    <descrição> Sanduíche tradicional brasieleiro </descrição>
+    <ingredientes> Pão, ovo, hamburguer, queijo, tomate, alface </ingredientes>
+    <preço>8 reais </preço>
+    <calorias>1200 kcal </calorias>
+    <tempoPreparo>15 min </tempoPreparo>
+ </prato>
+
+ <prato id="P02">
+    <Pudim>Pudim</Pudim>
+    <descrição> Pudim de leite moça </descrição>
+    <ingredientes> Ovo, leite condensado, açucar, leite </ingredientes>
+    <preço>5 reais </preço>
+    <calorias>266 kcal </calorias>
+    <tempoPreparo>40 min </tempoPreparo>
+ </prato> 
+
+ <prato id="P03">
+    <Omelete>Omelete</Omelete>
+    <descrição> Omelete recheada </descrição>
+    <ingredientes> ovo, farimha de trigo, sal a gosto, verdura e frango </ingredientes>
+    <preço>15 reais </preço>
+    <calorias>150 kcal </calorias>
+    <tempoPreparo>25 min </tempoPreparo>
+ </prato> 
+
+ <prato id="P04">
+    <Bolo>Bolo </Bolo>
+    <descrição> Bolo de ovos </descrição>
+    <ingredientes> ovo, farimha de trigo, leite, margarina, açucar  </ingredientes>
+    <preço>20 reais </preço>
+    <calorias>350 kcal </calorias>
+    <tempoPreparo> 1 hora </tempoPreparo>
+ </prato>
+
+    <prato id="P05">
+        <Lasanha> Lasanha </Lasanha>
+        <descrição> Bolo de ovos </descrição>
+        <ingredientes>frango, mussarela, pressunto, massa de lasanha, requeijão, creme de leite, margarina, farinha, cebola  </ingredientes>
+        <preço>10 reais </preço>
+        <calorias>600 kcal </calorias>
+        <tempoPreparo> 1 hora </tempoPreparo>
+ </prato> 
+</cardapio>
