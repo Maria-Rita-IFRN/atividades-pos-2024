@@ -1,9 +1,16 @@
+<!DOCTYPE cardapio SYSTEM "definicoes.dtd">
+
 <?xml version="1.0" encoding="utf-8"?>
 <cardapio>
  <prato id="P01">
     <bauru>Bauru</bauru>
     <descrição> Sanduíche tradicional brasieleiro </descrição>
-    <ingredientes> Pão, ovo, hamburguer, queijo, tomate, alface </ingredientes>
+    <ingredientes>
+      <ingrediente>Pão </ingrediente>
+       <ingrediente>Ovo </ingrediente>
+        <ingrediente>salada </ingrediente>
+         <ingrediente>carne </ingrediente>
+    </ingredientes>
     <preço>8 reais </preço>
     <calorias>1200 kcal </calorias>
     <tempoPreparo>15 min </tempoPreparo>
@@ -12,7 +19,12 @@
  <prato id="P02">
     <Pudim>Pudim</Pudim>
     <descrição> Pudim de leite moça </descrição>
-    <ingredientes> Ovo, leite condensado, açucar, leite </ingredientes>
+    <ingredientes>  
+      <ingrediente>Ovo </ingrediente> 
+      <ingrediente> leite condensado</ingrediente>
+      <ingrediente> açucar</ingrediente>
+      <ingrediente>leite</ingrediente>
+    </ingredientes>
     <preço>5 reais </preço>
     <calorias>266 kcal </calorias>
     <tempoPreparo>40 min </tempoPreparo>
@@ -21,7 +33,13 @@
  <prato id="P03">
     <Omelete>Omelete</Omelete>
     <descrição> Omelete recheada </descrição>
-    <ingredientes> ovo, farimha de trigo, sal a gosto, verdura e frango </ingredientes>
+    <ingredientes>
+      <ingrediente>ovo</ingrediente> 
+      <ingrediente> farimha de trigo</ingrediente>
+      <ingrediente> sal a gosto</ingrediente>
+      <ingrediente> verdura</ingrediente>
+      <ingrediente> frango</ingrediente>
+    </ingredientes>
     <preço>15 reais </preço>
     <calorias>150 kcal </calorias>
     <tempoPreparo>25 min </tempoPreparo>
@@ -30,7 +48,13 @@
  <prato id="P04">
     <Bolo>Bolo </Bolo>
     <descrição> Bolo de ovos </descrição>
-    <ingredientes> ovo, farimha de trigo, leite, margarina, açucar  </ingredientes>
+    <ingredientes> 
+      <ingrediente>ovo</ingrediente>
+      <ingrediente>farimha de trigo</ingrediente>
+      <ingrediente>leite</ingrediente>
+      <ingrediente>margarina</ingrediente>
+      <ingrediente>açucar</ingrediente>
+    </ingredientes>
     <preço>20 reais </preço>
     <calorias>350 kcal </calorias>
     <tempoPreparo> 1 hora </tempoPreparo>
@@ -39,7 +63,17 @@
     <prato id="P05">
         <Lasanha> Lasanha </Lasanha>
         <descrição> Bolo de ovos </descrição>
-        <ingredientes>frango, mussarela, pressunto, massa de lasanha, requeijão, creme de leite, margarina, farinha, cebola  </ingredientes>
+        <ingredientes>
+         <ingrediente>frango</ingrediente> 
+         <ingrediente>mussarela</ingrediente>
+         <ingrediente>pressunto</ingrediente>
+         <ingrediente>massa de lasanha</ingrediente>
+         <ingrediente>requeijão</ingrediente>
+         <ingrediente>creme de leite</ingrediente>
+         <ingrediente>margarina</ingrediente>
+         <ingrediente>farinha</ingrediente>
+         <ingrediente>cebola</ingrediente>
+        </ingredientes>
         <preço>10 reais </preço>
         <calorias>600 kcal </calorias>
         <tempoPreparo> 1 hora </tempoPreparo>
