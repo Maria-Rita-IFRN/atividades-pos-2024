@@ -8,8 +8,10 @@
     <ingredientes>
       <ingrediente>Pão </ingrediente>
        <ingrediente>Ovo </ingrediente>
-        <ingrediente>salada </ingrediente>
-         <ingrediente>carne </ingrediente>
+        <ingrediente>hamburguer </ingrediente>
+         <ingrediente>queijo </ingrediente>
+         <ingrediente>tomate </ingrediente>
+         <ingrediente>alface</ingrediente>
     </ingredientes>
     <preço>8 reais </preço>
     <calorias>1200 kcal </calorias>
