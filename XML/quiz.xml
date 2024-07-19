@@ -11,7 +11,7 @@
      <questoes> 
         <questao>
              <enunciado>Qual foi o ano da descoberta do Brasil?</enunciado>
-              <pontuação>1</pontuação>
+              <pontuacao>1</pontuacao>
               <alternativas>
                 <alternativa correta="nao">1492</alternativa>
                 <alternativa correta="nao">1600</alternativa>
@@ -20,30 +20,30 @@
             </alternativas>
         </questao>
 
-         <questão>
+         <questao>
             <enunciado>Quem foi o primeiro presidente do Brasil?</enunciado>
-            <pontuação>5</pontuação>
+            <pontuacao>5</pontuacao>
             <alternativas>
                 <alternativa correta="nao">Getúlio Vargas</alternativa>
                 <alternativa correta="sim">Deodoro da Fonseca</alternativa>
                 <alternativa correta="nao">Juscelino Kubitschek</alternativa>
                 <alternativa correta="nao">Pedro II</alternativa>
             </alternativas>
-        </questão>
-            <questão>
+        </questao>
+            <questao>
                 <enunciado>Qual é a capital do Brasil?</enunciado>
-                <pontuação>3</pontuação>
+                <pontuacao>3</pontuacao>
                 <alternativas>
                     <alternativa correta="nao">Rio de Janeiro</alternativa>
                     <alternativa correta="nao">São Paulo</alternativa>
                     <alternativa correta="sim">Brasília</alternativa>
                     <alternativa correta="nao">Salvador</alternativa>
                 </alternativas>
-        </questão>
+        </questao>
 
-         <questão>
+         <questao>
             <enunciado>Em que ano a Proclamação da República ocorreu no Brasil?</enunciado>
-            <pontuação>6</pontuação>
+            <pontuacao>6</pontuacao>
             <alternativas>
                 <alternativa correta="sim">1889</alternativa>
                 <alternativa correta="nao">1822</alternativa>
@@ -51,16 +51,16 @@
                 <alternativa correta="nao">1900</alternativa>
             </alternativas>
 
-            <questão>
+            <questao>
             <enunciado>Quem foi o responsável pela abolição da escravatura no Brasil?</enunciado>
-            <pontuação>2</pontuação>
+            <pontuacao>2</pontuacao>
             <alternativas>
                 <alternativa correta="nao">Dom Pedro I</alternativa>
                 <alternativa correta="nao">Dom Pedro II</alternativa>
                 <alternativa correta="sim">Princesa Isabel</alternativa>
                 <alternativa correta="nao">José Bonifácio</alternativa>
             </alternativas>
-        </questão>
+        </questao>
      
      </questoes>
 </quiz>
