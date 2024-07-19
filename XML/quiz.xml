@@ -12,7 +12,7 @@
         <questao>
              <enunciado>Qual foi o ano da descoberta do Brasil?</enunciado>
               <pontuacao>1</pontuacao>
-              <alternativas>
+              <alternativas> 
                 <alternativa correta="nao">1492</alternativa>
                 <alternativa correta="nao">1600</alternativa>
                 <alternativa correta="nao">1700</alternativa>
