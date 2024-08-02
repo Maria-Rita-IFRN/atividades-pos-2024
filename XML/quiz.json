@@ -1,0 +1,65 @@
+{
+    "quiz": {
+      "versao": "1.0",
+      "disciplina": "História",
+      "professor": {
+        "nome": "Diego Cirilo",
+        "matricula": "20061234"
+      },
+      "turma": "4M",
+      "data": "2024-07-17",
+      "questoes": [
+        {
+          "enunciado": "Qual foi o ano da descoberta do Brasil?",
+          "pontuacao": 1,
+          "alternativas": [
+            { "alternativa": "1492", "correta": "nao" },
+            { "alternativa": "1600", "correta": "nao" },
+            { "alternativa": "1700", "correta": "nao" },
+            { "alternativa": "1500", "correta": "sim" }
+          ]
+        },
+        {
+          "enunciado": "Quem foi o primeiro presidente do Brasil?",
+          "pontuacao": 5,
+          "alternativas": [
+            { "alternativa": "Getúlio Vargas", "correta": "nao" },
+            { "alternativa": "Deodoro da Fonseca", "correta": "sim" },
+            { "alternativa": "Juscelino Kubitschek", "correta": "nao" },
+            { "alternativa": "Pedro II", "correta": "nao" }
+          ]
+        },
+        {
+          "enunciado": "Qual é a capital do Brasil?",
+          "pontuacao": 3,
+          "alternativas": [
+            { "alternativa": "Rio de Janeiro", "correta": "nao" },
+            { "alternativa": "São Paulo", "correta": "nao" },
+            { "alternativa": "Brasília", "correta": "sim" },
+            { "alternativa": "Salvador", "correta": "nao" }
+          ]
+        },
+        {
+          "enunciado": "Em que ano a Proclamação da República ocorreu no Brasil?",
+          "pontuacao": 6,
+          "alternativas": [
+            { "alternativa": "1889", "correta": "sim" },
+            { "alternativa": "1822", "correta": "nao" },
+            { "alternativa": "1894", "correta": "nao" },
+            { "alternativa": "1900", "correta": "nao" }
+          ]
+        },
+        {
+          "enunciado": "Quem foi o responsável pela abolição da escravatura no Brasil?",
+          "pontuacao": 2,
+          "alternativas": [
+            { "alternativa": "Dom Pedro I", "correta": "nao" },
+            { "alternativa": "Dom Pedro II", "correta": "nao" },
+            { "alternativa": "Princesa Isabel", "correta": "sim" },
+            { "alternativa": "José Bonifácio", "correta": "nao" }
+          ]
+        }
+      ]
+    }
+  }
+  

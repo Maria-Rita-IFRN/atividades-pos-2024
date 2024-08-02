@@ -1,0 +1,33 @@
+{
+    "cardapio": {
+      "pratos": [
+        {
+          "pratoid": 1,
+          "nome": "Feijoada",
+          "descricao": "Feijoada completa com carnes variadas",
+          "ingredientes": [
+            "Feijão preto",
+            "Carne de porco",
+            "Linguiça"
+          ],
+          "preco": 29.90,
+          "calorias": 1200,
+          "tempoPreparo": "120 minutos"
+        },
+        {
+          "pratoid": 2,
+          "nome": "Lasanha",
+          "descricao": "Lasanha de carne com molho branco",
+          "ingredientes": [
+            "Massa de lasanha",
+            "Carne moída",
+            "Molho de tomate"
+          ],
+          "preco": 25.50,
+          "calorias": 800,
+          "tempoPreparo": "60 minutos"
+        }
+      ]
+    }
+  }
+  
