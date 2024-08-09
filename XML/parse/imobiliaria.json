@@ -4,7 +4,7 @@
             {
                 "descricao": "Apartamento com vista para o mar",
                 "proprietario": {
-                    "nome": "João Silva",
+                    "nome": "Joï¿½o Silva",
                     "email": "joao.silva@gmail.com",
                     "telefone": [
                         "123456789",
@@ -12,13 +12,13 @@
                     ]
                 },
                 "endereco": {
-                    "rua": "Avenida Atlântica",
+                    "rua": "Avenida Atlï¿½ntica",
                     "bairro": "Centro",
                     "cidade": "Rio de Janeiro",
                     "numero": "1001"
                 },
                 "caracteristicas": {
-                    "tamanho": "120m²",
+                    "tamanho": "120mï¿½",
                     "numQuartos": "3",
                     "numBanheiros": "2"
                 },
@@ -36,11 +36,11 @@
                 "endereco": {
                     "rua": "Rua das Flores",
                     "bairro": "Jardim Primavera",
-                    "cidade": "São Paulo",
+                    "cidade": "Sï¿½o Paulo",
                     "numero": "20"
                 },
                 "caracteristicas": {
-                    "tamanho": "250m²",
+                    "tamanho": "250mï¿½",
                     "numQuartos": "4",
                     "numBanheiros": "3"
                 },
@@ -57,19 +57,19 @@
                 },
                 "endereco": {
                     "rua": "Rua dos Estudantes",
-                    "bairro": "Universitário",
+                    "bairro": "Universitï¿½rio",
                     "cidade": "Campinas",
                     "numero": null
                 },
                 "caracteristicas": {
-                    "tamanho": "45m²",
+                    "tamanho": "45mï¿½",
                     "numQuartos": "1",
                     "numBanheiros": "1"
                 },
                 "valor": "R$ 300.000,00"
             },
             {
-                "descricao": "Sítio rural",
+                "descricao": "Sï¿½tio rural",
                 "proprietario": {
                     "nome": "Ana Pereira",
                     "email": null,
@@ -84,7 +84,7 @@
                     "numero": "SN"
                 },
                 "caracteristicas": {
-                    "tamanho": "5000m²",
+                    "tamanho": "5000mï¿½",
                     "numQuartos": "5",
                     "numBanheiros": "4"
                 },
@@ -102,11 +102,11 @@
                 "endereco": {
                     "rua": "Avenida Paulista",
                     "bairro": "Bela Vista",
-                    "cidade": "São Paulo",
+                    "cidade": "Sï¿½o Paulo",
                     "numero": "1500"
                 },
                 "caracteristicas": {
-                    "tamanho": "80m²",
+                    "tamanho": "80mï¿½",
                     "numQuartos": "2",
                     "numBanheiros": "1"
                 },

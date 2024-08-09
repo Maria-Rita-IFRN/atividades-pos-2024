@@ -1,5 +1,5 @@
 from xml.dom.minidom import parse
-import json
+import json 
 
 
 dom = parse("imobiliaria.xml")
