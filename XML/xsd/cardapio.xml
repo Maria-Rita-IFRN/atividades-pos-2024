@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cardapio xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="cardapio.xsd">
+  <prato pratoid="1">
+    <nome>Feijoada</nome>
+    <descricao>Feijoada completa com carnes variadas</descricao>
+    <ingredientes>
+      <ingrediente>Feijão preto</ingrediente>
+      <ingrediente>Carne de porco</ingrediente>
+      <ingrediente>Linguiça</ingrediente>
+    </ingredientes>
+    <preco>29.90</preco>
+    <calorias>1200</calorias>
+    <tempoPreparo>120 minutos</tempoPreparo>
+  </prato>
+  <prato pratoid="2">
+    <nome>Lasanha</nome>
+    <descricao>Lasanha de carne com molho branco</descricao>
+    <ingredientes>
+      <ingrediente>Massa de lasanha</ingrediente>
+      <ingrediente>Carne moída</ingrediente>
+      <ingrediente>Molho de tomate</ingrediente>
+    </ingredientes>
+    <preco>25.50</preco>
+    <calorias>800</calorias>
+    <tempoPreparo>60 minutos</tempoPreparo>
+  </prato>
+</cardapio>

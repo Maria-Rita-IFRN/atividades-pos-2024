@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<imobiliaria xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="imobiliaria02.xsd">
+  <imovel>
+    <descricao>Apartamento aconchegante no centro</descricao>
+    <proprietario>
+      <nome>João Silva</nome>
+      <email>joao.silva@email.com</email>
+      <telefone>(11) 99999-1111</telefone>
+      <telefone>(11) 99999-2222</telefone>
+    </proprietario>
+    <endereco>
+      <rua>Rua das Flores</rua>
+      <bairro>Jardim Primavera</bairro>
+      <cidade>São Paulo</cidade>
+      <numero>123</numero>
+    </endereco>
+    <caracteristicas>
+      <tamanho>85.5</tamanho>
+      <numQuartos>3</numQuartos>
+      <numBanheiros>2</numBanheiros>
+    </caracteristicas>
+    <valor>350000.00</valor>
+  </imovel>
+
+  <imovel>
+    <descricao>Casa ampla com quintal</descricao>
+    <proprietario>
+      <nome>Maria Oliveira</nome>
+      <telefone>(11) 98888-3333</telefone>
+    </proprietario>
+    <endereco>
+      <rua>Avenida Brasil</rua>
+      <bairro>Centro</bairro>
+      <cidade>Rio de Janeiro</cidade>
+
+    </endereco>
+    <caracteristicas>
+      <tamanho>120.0</tamanho>
+      <numQuartos>4</numQuartos>
+      <numBanheiros>3</numBanheiros>
+    </caracteristicas>
+    <valor>500000.00</valor>
+  </imovel>
+
+  <imovel>
+    <descricao>Kitnet próxima à faculdade</descricao>
+    <proprietario>
+      <nome>Pedro Santos</nome>
+      <email>pedro.santos@email.com</email>
+      <telefone>(21) 97777-4444</telefone>
+    </proprietario>
+    <endereco>
+      <rua>Rua das Acácias</rua>
+      <bairro>Vila Mariana</bairro>
+      <cidade>São Paulo</cidade>
+      <numero>45</numero>
+    </endereco>
+    <caracteristicas>
+      <tamanho>35.0</tamanho>
+      <numQuartos>1</numQuartos>
+      <numBanheiros>1</numBanheiros>
+    </caracteristicas>
+    <valor>150000.00</valor>
+  </imovel>
+
+  <imovel>
+    <descricao>Chácara com área verde</descricao>
+    <proprietario>
+      <nome>Ana Costa</nome>
+      <telefone>(19) 99999-5555</telefone>
+    </proprietario>
+    <endereco>
+      <rua>Estrada das Pedras</rua>
+      <bairro>Zona Rural</bairro>
+      <cidade>Campinas</cidade>
+      <numero>200</numero>
+    </endereco>
+    <caracteristicas>
+      <tamanho>250.0</tamanho>
+      <numQuartos>5</numQuartos>
+      <numBanheiros>4</numBanheiros>
+    </caracteristicas>
+    <valor>850000.00</valor>
+  </imovel>
+
+  <imovel>
+    <descricao>Loja comercial no bairro</descricao>
+    <proprietario>
+      <nome>Lucas Pereira</nome>
+      <telefone>(31) 98888-6666</telefone>
+    </proprietario>
+    <endereco>
+      <rua>Rua do Comércio</rua>
+      <bairro>Mercado</bairro>
+      <cidade>BH</cidade>
+      <numero>78</numero>
+    </endereco>
+    <caracteristicas>
+      <tamanho>45.0</tamanho>
+      <numQuartos>0</numQuartos>
+      <numBanheiros>1</numBanheiros>
+    </caracteristicas>
+    <valor>200000.00</valor>
+  </imovel>
+</imobiliaria>
