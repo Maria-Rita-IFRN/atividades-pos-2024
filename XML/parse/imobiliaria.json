@@ -1,0 +1,117 @@
+{
+    "imobiliaria": {
+        "imovel": [
+            {
+                "descricao": "Apartamento com vista para o mar",
+                "proprietario": {
+                    "nome": "João Silva",
+                    "email": "joao.silva@gmail.com",
+                    "telefone": [
+                        "123456789",
+                        "987654321"
+                    ]
+                },
+                "endereco": {
+                    "rua": "Avenida Atlântica",
+                    "bairro": "Centro",
+                    "cidade": "Rio de Janeiro",
+                    "numero": "1001"
+                },
+                "caracteristicas": {
+                    "tamanho": "120m²",
+                    "numQuartos": "3",
+                    "numBanheiros": "2"
+                },
+                "valor": "R$ 1.200.000,00"
+            },
+            {
+                "descricao": "Casa com piscina",
+                "proprietario": {
+                    "nome": "Maria Oliveira",
+                    "email": null,
+                    "telefone": [
+                        "111222333"
+                    ]
+                },
+                "endereco": {
+                    "rua": "Rua das Flores",
+                    "bairro": "Jardim Primavera",
+                    "cidade": "São Paulo",
+                    "numero": "20"
+                },
+                "caracteristicas": {
+                    "tamanho": "250m²",
+                    "numQuartos": "4",
+                    "numBanheiros": "3"
+                },
+                "valor": "R$ 950.000,00"
+            },
+            {
+                "descricao": "Apartamento compacto",
+                "proprietario": {
+                    "nome": "Carlos Souza",
+                    "email": null,
+                    "telefone": [
+                        "444555666"
+                    ]
+                },
+                "endereco": {
+                    "rua": "Rua dos Estudantes",
+                    "bairro": "Universitário",
+                    "cidade": "Campinas",
+                    "numero": null
+                },
+                "caracteristicas": {
+                    "tamanho": "45m²",
+                    "numQuartos": "1",
+                    "numBanheiros": "1"
+                },
+                "valor": "R$ 300.000,00"
+            },
+            {
+                "descricao": "Sítio rural",
+                "proprietario": {
+                    "nome": "Ana Pereira",
+                    "email": null,
+                    "telefone": [
+                        "777888999"
+                    ]
+                },
+                "endereco": {
+                    "rua": "Estrada da Fazenda",
+                    "bairro": "Zona Rural",
+                    "cidade": "Curitiba",
+                    "numero": "SN"
+                },
+                "caracteristicas": {
+                    "tamanho": "5000m²",
+                    "numQuartos": "5",
+                    "numBanheiros": "4"
+                },
+                "valor": "R$ 2.500.000,00"
+            },
+            {
+                "descricao": "Loft moderno",
+                "proprietario": {
+                    "nome": "Beatriz Lima",
+                    "email": "beatriz.lima@gmail.com",
+                    "telefone": [
+                        "333444555"
+                    ]
+                },
+                "endereco": {
+                    "rua": "Avenida Paulista",
+                    "bairro": "Bela Vista",
+                    "cidade": "São Paulo",
+                    "numero": "1500"
+                },
+                "caracteristicas": {
+                    "tamanho": "80m²",
+                    "numQuartos": "2",
+                    "numBanheiros": "1"
+                },
+                "valor": "R$ 800.000,00"
+            }
+        ]
+    }
+}
