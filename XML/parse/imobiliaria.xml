@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE imobiliaria [
+    <!ELEMENT imobiliaria (imovel+)>
+    <!ELEMENT imovel (descricao, proprietario, endereco, caracteristicas, valor)>
+    <!ELEMENT descricao (#PCDATA)>
+    <!ELEMENT proprietario (nome, email?, telefone+)>
+    <!ELEMENT nome (#PCDATA)>
+    <!ELEMENT email (#PCDATA)>
+    <!ELEMENT telefone (#PCDATA)>
+    <!ELEMENT endereco (rua, bairro, cidade, numero?)>
+    <!ELEMENT rua (#PCDATA)>
+    <!ELEMENT bairro (#PCDATA)>
+    <!ELEMENT cidade (#PCDATA)>
+    <!ELEMENT numero (#PCDATA)>
+    <!ELEMENT caracteristicas (tamanho, numQuartos, numBanheiros)>
+    <!ELEMENT tamanho (#PCDATA)>
+    <!ELEMENT numQuartos (#PCDATA)>
+    <!ELEMENT numBanheiros (#PCDATA)>
+    <!ELEMENT valor (#PCDATA)>
+]>
+
+<imobiliaria>
+    <imovel>
+        <descricao>Apartamento com vista para o mar</descricao>
+        <proprietario>
+            <nome>João Silva</nome>
+            <email>joao.silva@gmail.com</email>
+            <telefone>123456789</telefone>
+            <telefone>987654321</telefone>
+        </proprietario>
+        <endereco>
+            <rua>Avenida Atlântica</rua>
+            <bairro>Centro</bairro>
+            <cidade>Rio de Janeiro</cidade>
+            <numero>1001</numero>
+        </endereco>
+        <caracteristicas>
+            <tamanho>120m²</tamanho>
+            <numQuartos>3</numQuartos>
+            <numBanheiros>2</numBanheiros>
+        </caracteristicas>
+        <valor>R$ 1.200.000,00</valor>
+    </imovel>
+    <imovel>
+        <descricao>Casa com piscina</descricao>
+        <proprietario>
+            <nome>Maria Oliveira</nome>
+            <telefone>111222333</telefone>
+        </proprietario>
+        <endereco>
+            <rua>Rua das Flores</rua>
+            <bairro>Jardim Primavera</bairro>
+            <cidade>São Paulo</cidade>
+            <numero>20</numero>
+        </endereco>
+        <caracteristicas>
+            <tamanho>250m²</tamanho>
+            <numQuartos>4</numQuartos>
+            <numBanheiros>3</numBanheiros>
+        </caracteristicas>
+        <valor>R$ 950.000,00</valor>
+    </imovel>
+    <imovel>
+        <descricao>Apartamento compacto</descricao>
+        <proprietario>
+            <nome>Carlos Souza</nome>
+            <telefone>444555666</telefone>
+        </proprietario>
+        <endereco>
+            <rua>Rua dos Estudantes</rua>
+            <bairro>Universitário</bairro>
+            <cidade>Campinas</cidade>
+        </endereco>
+        <caracteristicas>
+            <tamanho>45m²</tamanho>
+            <numQuartos>1</numQuartos>
+            <numBanheiros>1</numBanheiros>
+        </caracteristicas>
+        <valor>R$ 300.000,00</valor>
+    </imovel>
+    <imovel>
+        <descricao>Sítio rural</descricao>
+        <proprietario>
+            <nome>Ana Pereira</nome>
+            <telefone>777888999</telefone>
+        </proprietario>
+        <endereco>
+            <rua>Estrada da Fazenda</rua>
+            <bairro>Zona Rural</bairro>
+            <cidade>Curitiba</cidade>
+            <numero>SN</numero>
+        </endereco>
+        <caracteristicas>
+            <tamanho>5000m²</tamanho>
+            <numQuartos>5</numQuartos>
+            <numBanheiros>4</numBanheiros>
+        </caracteristicas>
+        <valor>R$ 2.500.000,00</valor>
+    </imovel>
+    <imovel>
+        <descricao>Loft moderno</descricao>
+        <proprietario>
+            <nome>Beatriz Lima</nome>
+            <email>beatriz.lima@gmail.com</email>
+            <telefone>333444555</telefone>
+        </proprietario>
+        <endereco>
+            <rua>Avenida Paulista</rua>
+            <bairro>Bela Vista</bairro>
+            <cidade>São Paulo</cidade>
+            <numero>1500</numero>
+        </endereco>
+        <caracteristicas>
+            <tamanho>80m²</tamanho>
+            <numQuartos>2</numQuartos>
+            <numBanheiros>1</numBanheiros>
+        </caracteristicas>
+        <valor>R$ 800.000,00</valor>
+    </imovel>
+</imobiliaria>

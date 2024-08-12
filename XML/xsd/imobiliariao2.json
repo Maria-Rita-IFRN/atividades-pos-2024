@@ -1,0 +1,114 @@
+{
+    "imobiliaria": {
+      "imoveis": [
+        {
+          "descricao": "Apartamento aconchegante no centro",
+          "proprietario": {
+            "nome": "João Silva",
+            "email": "joao.silva@email.com",
+            "telefones": [
+              "(11) 99999-1111",
+              "(11) 99999-2222"
+            ]
+          },
+          "endereco": {
+            "rua": "Rua das Flores",
+            "bairro": "Jardim Primavera",
+            "cidade": "São Paulo",
+            "numero": "123"
+          },
+          "caracteristicas": {
+            "tamanho": 85.5,
+            "numQuartos": 3,
+            "numBanheiros": 2
+          },
+          "valor": 350000.00
+        },
+        {
+          "descricao": "Casa ampla com quintal",
+          "proprietario": {
+            "nome": "Maria Oliveira",
+            "telefones": [
+              "(11) 98888-3333"
+            ]
+          },
+          "endereco": {
+            "rua": "Avenida Brasil",
+            "bairro": "Centro",
+            "cidade": "Rio de Janeiro"
+          },
+          "caracteristicas": {
+            "tamanho": 120.0,
+            "numQuartos": 4,
+            "numBanheiros": 3
+          },
+          "valor": 500000.00
+        },
+        {
+          "descricao": "Kitnet próxima à faculdade",
+          "proprietario": {
+            "nome": "Pedro Santos",
+            "email": "pedro.santos@email.com",
+            "telefones": [
+              "(21) 97777-4444"
+            ]
+          },
+          "endereco": {
+            "rua": "Rua das Acácias",
+            "bairro": "Vila Mariana",
+            "cidade": "São Paulo",
+            "numero": "45"
+          },
+          "caracteristicas": {
+            "tamanho": 35.0,
+            "numQuartos": 1,
+            "numBanheiros": 1
+          },
+          "valor": 150000.00
+        },
+        {
+          "descricao": "Chácara com área verde",
+          "proprietario": {
+            "nome": "Ana Costa",
+            "telefones": [
+              "(19) 99999-5555"
+            ]
+          },
+          "endereco": {
+            "rua": "Estrada das Pedras",
+            "bairro": "Zona Rural",
+            "cidade": "Campinas",
+            "numero": "200"
+          },
+          "caracteristicas": {
+            "tamanho": 250.0,
+            "numQuartos": 5,
+            "numBanheiros": 4
+          },
+          "valor": 850000.00
+        },
+        {
+          "descricao": "Loja comercial no bairro",
+          "proprietario": {
+            "nome": "Lucas Pereira",
+            "telefones": [
+              "(31) 98888-6666"
+            ]
+          },
+          "endereco": {
+            "rua": "Rua do Comércio",
+            "bairro": "Mercado",
+            "cidade": "BH",
+            "numero": "78"
+          },
+          "caracteristicas": {
+            "tamanho": 45.0,
+            "numQuartos": 0,
+            "numBanheiros": 1
+          },
+          "valor": 200000.00
+        }
+      ]
+    }
+  }
+  
