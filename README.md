@@ -26,3 +26,39 @@ Esse é o repositório base para as tarefas da disciplina de POS.
 - Commit/Push 
 
 **Prazo**: 19/07/2024
+
+---
+## Tarefa 03 - XML Schema
+- Crie um diretório `xsd` na raiz do repositório
+- Dentro do repositório faça as tarefas dos slides 33, 34 e 35 da aula 08 [link](https://dvcirilo.github.io/pos-ifrn/build/aula08.html#33)
+- Utilize os nomes de arquivos sugeridos na tarefa.
+- Commit/Push
+
+**Prazo: 02/08/2024**
+
+---
+## Tarefa 04 - JSON
+- Crie um diretório `json` na raiz do repositório
+- Dentro do repositório faça as tarefas do slide 06 da aula 09 [link](https://dvcirilo.github.io/pos-ifrn/build/aula09.html#6)
+- Utilize os nomes de arquivos sugeridos na tarefa.
+- Commit/Push
+
+**Prazo: 02/08/2024**
+
+---
+## Tarefa 05 - Parsers 01
+- Crie um diretório `parsers` na raiz do repositório
+- Dentro do repositório faça as tarefas dos slides 08 e 13 da aula 10 [link](https://dvcirilo.github.io/pos-ifrn/build/aula10.html#8)
+- Utilize os nomes de arquivos sugeridos na tarefa.
+- Commit/Push
+
+**Prazo: 09/08/2024**
+
+---
+## Tarefa 06 - Parsers 02
+- Crie um diretório `parsers` na raiz do repositório
+- Dentro do repositório faça a tarefa do slides 14 da aula 10 [link](https://dvcirilo.github.io/pos-ifrn/build/aula10.html#14)
+- Utilize os nomes de arquivos sugeridos na tarefa.
+- Commit/Push
+
+**Prazo: 14/08/2024**
